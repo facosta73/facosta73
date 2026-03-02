@@ -2,8 +2,7 @@
 
 - 🌱 Curiosity-driven and with a collaborative spirit, I am always open to new challenges. 
 
-- 📫 How to reach me: facosta73@gmail.com, facosta73@hotmail.com
-https://www.linkedin.com/in/federicofranciscoacostacastro
+- 📫 How to reach me: facosta73@gmail.com, https://www.linkedin.com/in/federicofranciscoacostacastro
 
 <!---
 facosta73/facosta73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
