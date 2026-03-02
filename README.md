@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @facosta73
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
 
-- 📫 How to reach me: facosta73@hotmail.com,
+- 🌱 Curiosity-driven and with a collaborative spirit, I am always open to new challenges. 
+
+- 📫 How to reach me: facosta73@gmail.com, facosta73@hotmail.com
 https://www.linkedin.com/in/federicofranciscoacostacastro
 
 <!---
